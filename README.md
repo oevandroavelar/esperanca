@@ -1,7 +1,7 @@
-<h1 align="center"> NLW #10 Copa </h1>
+<h1 align="center"> Dev Links </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Site exclusivo e gratuito, promovido pela Rocketseat para informações do Ministério de Familias da Esperança Joinville.
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="DevLinks" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
@@ -28,10 +28,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Git e Github
+- Figma
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+Links de acesso para te encaminhar as mídias sociais do Ministério de Familias Esperança e para página da Igreja.
 
 ## 🔖 Layout
 
